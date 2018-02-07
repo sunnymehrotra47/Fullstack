@@ -1,0 +1,273 @@
+.topbar {
+    background-color: #FFFFFF;
+    padding :15px;
+}
+.line{
+    width : 30px;
+    height: 4px;
+    display: block;
+    background-color: red;
+}
+
+.nav-bar {
+    margin-left: 10px;
+}
+
+.top-left-logo {
+
+    margin-right: 720px;
+}
+
+
+.nav-bar-item {
+    font-family: OpenSans-Bold;
+    font-size: 14px;
+    color: #373A39;
+    letter-spacing: 1.16px;
+    margin-left: 20px;
+    }
+
+.centre-text {
+    font-family: SapientCentroSlab-Light;
+    font-size: 60px;
+    color: #FFFFFF;
+ }
+
+.title1 {
+    font-family: SapientCentroSlab-Light;
+    font-size: 60px;
+    color: #242121;
+    letter-spacing: -1.66px;
+    line-height: 120px;
+    margin-top: 120px;
+    margin-left: 135px;
+    margin-right: 0%;
+}
+
+.container1 {
+    font-family: OpenSans;
+    font-size: 14px;
+    color: #373A39;
+    line-height: 24px;
+    width: 50%;
+    margin-top:120px;
+    margin-left: 181px;
+    margin-right: 135px;
+    margin-bottom: 120px;
+    }
+    
+
+.title2 {
+    font-family: SapientCentroSlab-Light;
+    font-size: 60px;
+    color: #242121;
+    letter-spacing: -1.66px;
+    line-height: 75px;
+    display: inline-block;
+    margin-top: 120px;
+    margin-left: 75px;
+    margin-bottom: 10px;
+    
+    }
+
+.container2 {
+    font-family: OpenSans;
+    font-size: 14px;
+    color: #373A39;
+    line-height: 24px;
+    display: inline-block;
+    width: 470px;
+    height:350px;
+    margin-left: 75px;  
+    margin-top:44px;  
+    }
+
+.image1 {
+    height:740px;
+    width:705px;
+    margin-right: 0%;
+}
+
+.jumbotron {
+    padding:0px;
+    width:100%
+}
+
+.count-bar {
+    margin-bottom: 159px;
+}
+.desc-bar {
+    margin-bottom: 180px;
+}
+.count{
+    font-family: SapientCentroSlab-Light;
+    font-size: 60px;
+    color: #242121;
+    letter-spacing: -1.66px;
+    line-height: 75px;
+    margin-left:125px;
+    width:93px;
+    height:88px;
+}
+
+.count-bar-desc1{
+    font-family: OpenSans;
+    font-size: 14px;
+    color: #373A39;
+    line-height: 24px;
+    margin-left:125px;
+}
+
+.count-bar-desc2{
+    font-family: OpenSans;
+    font-size: 14px;
+    color: #373A39;
+    line-height: 24px;
+    margin-left:221px;
+}
+.count-bar-desc3{
+    font-family: OpenSans;
+    font-size: 14px;
+    color: #373A39;
+    line-height: 24px;
+    margin-left:205px;
+}
+.count-bar-desc4{
+    font-family: OpenSans;
+    font-size: 14px;
+    color: #373A39;
+    line-height: 24px;
+    margin-left:195px;
+}
+
+.personalimage {
+    height:440px;
+    width:370px;     
+}
+
+.align-center {
+    text-align: center; 
+    display: inline-block;
+    margin-left: 50px;
+     
+    }
+
+.name {
+    font-family: OpenSans-Bold;
+    font-size: 14px;
+    color: #373A39;
+    letter-spacing: 1.16px;
+    
+}
+
+.title3 {
+    font-family: SapientCentroSlab-Light;
+    font-size: 60px;
+    color: #242121;
+    letter-spacing: -1.66px;
+    margin-left: 50px; 
+    display:inline-block;
+    margin-top: 100px;
+}
+
+.name{
+    font-family: OpenSans-Bold;
+    font-size: 14px;
+    color: #373A39;
+    letter-spacing: 1.16px;
+    padding : 10px;
+    align-content: center;
+    position: relative;
+    }
+
+.place{
+    font-family: OpenSans;
+    font-size: 14px;
+    color: #373A39;
+    line-height: 24px;
+    } 
+
+.footer{
+    background: #373A39;
+    opacity: 100%;
+    width:100%;
+    height:552px;
+    margin-top: 162px;
+    }
+
+.footer-logo{
+    margin-left: 650px;
+    margin-top: 111px;  
+    -webkit-filter: brightness(40)
+    }
+
+.footer-sites-bar{
+    margin-left: 336px; 
+    margin-top: 101px;
+    }
+
+.sites{
+    font-family: OpenSans-Bold;
+    font-size: 12px;
+    color: #CDCDCD;
+    letter-spacing: 1px;
+    margin-left: 35px;
+}
+.footer-address {
+    font-family: OpenSans;
+    font-size: 14px;
+    color: #CDCDCD;
+    line-height: 24px;
+    margin-top: 62px;
+    text-align: center;
+}
+
+.line {
+    background: #DE2728;
+    display:block;   
+    margin-left: 775px;
+    margin-top: 0px;
+    width: 35px;
+    height: 4px;
+}
+.line1 {
+    position: absolute;
+    background: #DE2728;
+    left: 120px;
+    margin-top: 230px;
+    width: 60px;
+    height: 4px;
+}
+.line2 {
+    position: absolute;
+    background: #DE2728;
+    margin-top: 0px;
+    margin-left:75px;
+    width: 60px;
+    height: 4px;
+}
+
+.line3 {
+    position: absolute;
+    background: #DE2728;
+    margin-top: 0px;
+    margin-left:50px;
+    width: 60px;
+    height: 4px;
+}
+
+.line4 {
+    position: absolute;
+    background: white;
+    margin-top: 15px;
+    margin-left:625px;
+    width: 60px;
+    height: .5px;
+}
+.col-pk{
+    margin-top: 140px;
+    padding:10px;
+}
+.col-sm{
+    margin-top: 140px;
+}
